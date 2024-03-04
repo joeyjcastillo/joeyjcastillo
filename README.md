@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [TryHackMe Profile](https://tryhackme.com/p/joji1418)
 
 <h2>Certifications: </h2>
 
