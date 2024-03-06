@@ -4,6 +4,24 @@
 
   - [TryHackMe Profile](https://tryhackme.com/p/joji1418)
 
+<h2>Tools</h2>
+
+<h3>Network</h3>
+<div>
+   <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+</div>
+
+<h3>Endpoint</h3>
+<div>
+   <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+</div>
+
+<h3>SIEM</h3>
+<div>
+   <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+</div>
+
+
 <h2>Certifications: </h2>
 
 - [CompTIA Security+](https://www.credly.com/badges/bd467c90-6727-40b4-88dd-6d4ec573cae2/public_url)
@@ -16,7 +34,6 @@
 
 [instagram]: https://www.instagram.com/thejoeycastillo/
 [linkedin]: https://linkedin.com/in/joeyjcastillo
-
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
