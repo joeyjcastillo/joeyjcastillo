@@ -9,6 +9,7 @@
 <h3>Network</h3>
 <div>
    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Snort-F56400?&style=for-the-badge&logo=Snort&logoColor=white" />
 </div>
 
 <h3>Endpoint</h3>
