@@ -25,6 +25,10 @@
 <h2>Certifications: </h2>
 
 - [CompTIA Security+](https://www.credly.com/badges/bd467c90-6727-40b4-88dd-6d4ec573cae2/public_url)
+
+  
+<h2>Courses: </h2>
+
 - [Tools of the Trade: Linux and SQL](https://coursera.org/share/974208fc2fa02b52e0ea10d23f93b7e6)
 
 <h2> 🤳 Connect with me:</h2>
